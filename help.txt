@@ -1,0 +1,2 @@
+rails new ecom --css tailwind 
+rails generate devise:install
